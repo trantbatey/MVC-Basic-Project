@@ -1,0 +1,17 @@
+# MacOS
+.DS_Store
+
+
+# IntelliJ
+.idea/*
+*.iml
+*.jar
+MVCdemo/target/*
+
+# Compiled output
+*.class
+out/*
+*/out/*
+*#
+.*#
+
